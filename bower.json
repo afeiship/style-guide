@@ -1,0 +1,29 @@
+{
+  "name": "webkit-sassui-flex-lauto-rfixed",
+  "description": "Flex layout left auto/right fixed",
+  "main": [
+    "dist/webkit-sassui-flex-lauto-rfixed.css",
+    "dist/webkit-sassui-flex-lauto-rfixed.scss"
+  ],
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "webkit",
+    "cssui",
+    "flex-lauto-rfixed"
+  ],
+  "homepage": "https://github.com/afeiship/webkit-cssui-absolute-center",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src"
+  ]
+}

@@ -1,0 +1,20 @@
+/*webkit-sassui-flex-lauto-rfixed Start*/
+$webkit-sassui-flex-lauto-rfixed-align-map:(flex-start,center,flex-end);
+
+.webkit-sassui-flex-lauto-rfixed{
+  display: flex;
+  align-items: center;
+
+  >.left{
+    flex:1;
+  }
+  >.right{
+  }
+
+  @each $value in $webkit-sassui-flex-lauto-rfixed-align-map{
+    &[data-align=#{$value}]{
+      align-items: #{$value};
+    }
+  }
+}
+/*webkit-sassui-flex-lauto-rfixed End*/
