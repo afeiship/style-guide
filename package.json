@@ -1,23 +1,8 @@
 {
-  "name": "webkit-sassui-flex-lauto-rfixed",
-  "version": "0.0.0",
-  "description": "Flex layout left auto/right fixed",
-  "homepage": "https://github.com/afeiship/webkit-sassui-flex-lauto-rfixed",
-  "author": {
-    "name": "afei",
-    "email": "1290657123@qq.com"
-  },
-  "scripts": {
-    "build":"gulp"
-  },
-  "main":"dist/webkit-sassui-flex-lauto-rfixed.scss",
-  "license": "MIT",
-  "devDependencies": {
-    "del": "^2.2.1",
-    "gulp": "^3.9.1",
-    "gulp-load-plugins": "^1.2.0",
-    "gulp-rename": "^1.2.2",
-    "gulp-sass": "^2.3.2",
-    "yargs": "^4.7.1"
-  }
+  "name": "style-guide",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "My frontend style guide.",
+  "license": "MIT"
 }
