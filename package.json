@@ -3,7 +3,19 @@
   "version": "1.0.0",
   "description": "My frontend style guide.",
   "license": "MIT",
-  "scripts":{
+  "scripts": {
     "release": "release-it"
-  }
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "keywords": [
+    "eslint",
+    "frontend",
+    "prettier",
+    "style-guide",
+    "tsconfig",
+    "tsup"
+  ]
 }
