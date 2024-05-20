@@ -1,2 +1,4 @@
-rif.config.yaml
+.idea
+.vscode
 .release-it.json
+rif.config.yaml
