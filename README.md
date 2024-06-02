@@ -12,4 +12,4 @@ yarn add prettier-plugin-tailwindcss
 
 ## references
 - Inspired by [airbnb/javascript](https://github.com/strangelove-ventures/style-guide)
-- https://js.work/works/d065abced3bd0
+- https://js.work/works/939fac7b3e2c3
