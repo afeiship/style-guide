@@ -2,6 +2,11 @@
   "name": "@jswork/style-guide",
   "version": "1.0.3",
   "description": "My frontend style guide.",
+  "prettier": "prettier/index.js",
+  "exports": {
+    ".": "./prettier/index.js",
+    "./tailwind": "./prettier/tailwind.js"
+  },
   "license": "MIT",
   "scripts": {
     "release": "release-it"
