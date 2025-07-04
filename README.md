@@ -67,7 +67,8 @@ Create a `.prettierrc.json` file and use the `extends` key to inherit the config
 {
   "extends": "@jswork/style-guide",
   "semi": false,
-  "singleQuote": false
+  "singleQuote": false,
+  "printWidth": 120,
 }
 ```
 
