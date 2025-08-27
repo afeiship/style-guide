@@ -5,6 +5,7 @@
   "prettier": "prettier/index.js",
   "exports": {
     ".": "./prettier/index.js",
+    "./prettier": "./prettier/index.js",
     "./tailwind": "./prettier/tailwind.js"
   },
   "license": "MIT",
