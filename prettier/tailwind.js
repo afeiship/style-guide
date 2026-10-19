@@ -4,7 +4,7 @@ const baseConfig = require(".");
 /** @type {import("prettier").Config} */
 const config = {
   ...baseConfig,
-  plugins: ["prettier-plugin-tailwind"]
+  plugins: ["prettier-plugin-tailwindcss"]
 };
 
 module.exports = config;
